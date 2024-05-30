@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.white-text {
+  color: white;#form {
+background: linear-gradient(90deg, #1d808dd2, #0f5c66d2);
+box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+}
+}
+
+#form {
+background: linear-gradient(90deg, #1a1c1a, #2b2e2b);
+box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+}
