@@ -11,16 +11,12 @@ body {
 
 .avatar {
   vertical-align: middle;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
 }
 
 .content-wrapper {
   padding-top: 120px;
-}
-
-.address-text {
-  margin-bottom: 50px;
 }
 
 .background-section {
@@ -30,6 +26,7 @@ body {
   background-position: center;
   color: white;
 }
+
 .background-overlay {
   position: absolute;
   top: 0;
@@ -47,4 +44,17 @@ body {
 
 .move-up {
   margin-top: -15px;
+}
+
+.text-decoration{
+  text-decoration: none; 
+  font-size: 20px;
+}
+
+.small-font {
+  font-size: 14px;
+}
+
+.font-weight{
+  font-weight: normal;
 }
