@@ -5,18 +5,18 @@ body {
 
 .navbar {
   margin-bottom: 20px;
-  background-color: green;
+  background-color: darkkhaki;
+  padding-left: 30px;
 }
 
 .avatar {
   vertical-align: middle;
-  width: 75px;
-  height: 75px;
-  border-radius: 50%;
+  width: 120px;
+  height: 120px;
 }
 
 .content-wrapper {
-  padding-top: 56px; /* To account for fixed navbar */
+  padding-top: 120px;
 }
 
 .address-text {
@@ -25,7 +25,7 @@ body {
 
 .background-section {
   position: relative;
-  background-image: url('../assets/photo2.jpg');
+  background-image: url('../assets/photo1.jpeg');
   background-size: cover;
   background-position: center;
   color: white;
@@ -43,4 +43,8 @@ body {
   position: relative;
   z-index: 2;
   padding: 2rem;
+}
+
+.move-up {
+  margin-top: -15px;
 }
