@@ -1,0 +1,881 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v53_17 {
+  width: 100%;
+  height: 4668px;
+  background: rgba(248,247,242,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_45 {
+  width: 100%;
+  height: 338px;
+  background: rgba(189,183,107,1);
+  opacity: 1;
+  position: absolute;
+  top: 4330px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_46 {
+  width: 161px;
+  height: 161px;
+  background: url("../assets/tentang_kami/v59_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4418px;
+  left: 61px;
+  overflow: hidden;
+}
+.v59_38 {
+  width: 223px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 4367px;
+  left: 1171px;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_49 {
+  width: 513px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 4367px;
+  left: 606px;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_47 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 4460px;
+  left: 279px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v59_59 {
+  width: 100%;
+  height: 317px;
+  background: url("../assets/tentang_kami/v59_59.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3932px;
+  left: 87px;
+  overflow: hidden;
+}
+.v59_36 {
+  width: 100%;
+  height: 317px;
+  background: rgba(189,183,107,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v59_58 {
+  width: 100%;
+  height: 210px;
+  background: url("../assets/tentang_kami/v59_58.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 61px;
+  overflow: hidden;
+}
+.v59_40 {
+  width: 161px;
+  height: 161px;
+  background: url("../assets/tentang_kami/v59_40.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_57 {
+  width: 977px;
+  height: 210px;
+  background: url("../assets/tentang_kami/v59_57.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 199px;
+  overflow: hidden;
+}
+.v59_37 {
+  width: 579px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 68px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 27px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_56 {
+  width: 350px;
+  height: 210px;
+  background: url("../assets/tentang_kami/v59_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 627px;
+  overflow: hidden;
+}
+.v59_55 {
+  width: 220px;
+  height: 48px;
+  background: url("../assets/tentang_kami/v59_55.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 162px;
+  left: 25px;
+  overflow: hidden;
+}
+.v59_39 {
+  width: 182px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 13px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 17px;
+  opacity: 1;
+  text-align: center;
+}
+.v59_41 {
+  width: 48px;
+  height: 48px;
+  background: url("../assets/tentang_kami/v59_41.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 172px;
+  overflow: hidden;
+}
+.v59_42 {
+  width: 48px;
+  height: 48px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v59_43 {
+  width: 28px;
+  background: url("../assets/tentang_kami/v59_43.png");
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 10px;
+  border: 2px solid rgba(189,183,107,1);
+}
+.v59_54 {
+  width: 350px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 17px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_60 {
+  width: 100%;
+  height: 816px;
+  background: url("../assets/tentang_kami/v59_60.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3036px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_29 {
+  width: 655px;
+  height: 122px;
+  background: url("../assets/tentang_kami/v59_29.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 392px;
+  overflow: hidden;
+}
+.v59_30 {
+  width: 655px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 12px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 37px;
+  opacity: 1;
+  text-align: center;
+}
+.v59_31 {
+  width: 655px;
+  background: url("../assets/tentang_kami/v59_31.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(0,0,0,1);
+}
+.v59_32 {
+  width: 655px;
+  background: url("../assets/tentang_kami/v59_32.png");
+  opacity: 1;
+  position: absolute;
+  top: 122px;
+  left: 0px;
+  border: 3px solid rgba(0,0,0,1);
+}
+.v59_33 {
+  width: 949px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 625px;
+  left: 245px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 27px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_48 {
+  width: 100%;
+  height: 392px;
+  background: rgba(96,96,96,1);
+  opacity: 1;
+  position: absolute;
+  top: 178px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_34 {
+  width: 100%;
+  height: 392px;
+  background: url("../assets/tentang_kami/v59_34.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 178px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_28 {
+  width: 100%;
+  height: 982px;
+  background: url("../assets/tentang_kami/v59_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1842px;
+  left: 129px;
+  overflow: hidden;
+}
+.v59_19 {
+  width: 100%;
+  height: 185px;
+  background: url("../assets/tentang_kami/v59_19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_4 {
+  width: 737px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 445px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_8 {
+  width: 395px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_12 {
+  width: 92px;
+  background: url("../assets/tentang_kami/v59_12.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(189,183,107,1);
+}
+.v59_18 {
+  width: 100%;
+  height: 175px;
+  background: url("../assets/tentang_kami/v59_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_5 {
+  width: 737px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 39px;
+  left: 445px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_9 {
+  width: 395px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_13 {
+  width: 92px;
+  background: url("../assets/tentang_kami/v59_13.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(189,183,107,1);
+}
+.v59_17 {
+  width: 100%;
+  height: 145px;
+  background: url("../assets/tentang_kami/v59_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 544px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_6 {
+  width: 737px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 33px;
+  left: 445px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_10 {
+  width: 395px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 29px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_14 {
+  width: 92px;
+  background: url("../assets/tentang_kami/v59_14.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(189,183,107,1);
+}
+.v59_16 {
+  width: 100%;
+  height: 148px;
+  background: url("../assets/tentang_kami/v59_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 834px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_7 {
+  width: 737px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 25px;
+  left: 445px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_11 {
+  width: 395px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v59_15 {
+  width: 92px;
+  background: url("../assets/tentang_kami/v59_15.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(189,183,107,1);
+}
+.v59_21 {
+  width: 100%;
+  height: 907px;
+  background: url("../assets/tentang_kami/v59_21.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 784px;
+  left: 104px;
+  overflow: hidden;
+}
+.v53_45 {
+  width: 644px;
+  height: 138px;
+  background: url("../assets/tentang_kami/v53_45.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 294px;
+  overflow: hidden;
+}
+.v53_42 {
+  width: 265px;
+  color: rgba(189,183,107,1);
+  position: absolute;
+  top: 0px;
+  left: 189px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v53_43 {
+  width: 644px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v53_44 {
+  width: 92px;
+  background: url("../assets/tentang_kami/v53_44.png");
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 276px;
+  border: 3px solid rgba(189,183,107,1);
+}
+.v59_20 {
+  width: 100%;
+  height: 700px;
+  background: url("../assets/tentang_kami/v59_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 207px;
+  left: 0px;
+  overflow: hidden;
+}
+.v58_2 {
+  width: 559px;
+  height: 700px;
+  background: url("../assets/tentang_kami/v58_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v58_3 {
+  width: 559px;
+  height: 700px;
+  background: url("../assets/tentang_kami/v58_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 672px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v59_24 {
+  width: 100%;
+  height: 566px;
+  background: url("../assets/tentang_kami/v59_24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_22 {
+  width: 100%;
+  height: 566px;
+  background: url("../assets/tentang_kami/v59_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v53_41 {
+  width: 100%;
+  height: 566px;
+  background: rgba(96,96,96,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v53_36 {
+  width: 100%;
+  height: 565px;
+  background: url("../assets/tentang_kami/v53_36.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_23 {
+  width: 100%;
+  height: 145px;
+  background: url("../assets/tentang_kami/v59_23.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 211px;
+  left: 77px;
+  overflow: hidden;
+}
+.v53_37 {
+  width: 544px;
+  height: 98px;
+  background: url("../assets/tentang_kami/v53_37.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 23px;
+  left: 0px;
+  overflow: hidden;
+}
+.v53_38 {
+  width: 430px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 5px;
+  left: 46px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_39 {
+  width: 543px;
+  height: 95px;
+  background: url("../assets/tentang_kami/v53_39.png");
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  border: 3px solid rgba(255,255,255,1);
+}
+.v53_40 {
+  width: 656px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 643px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_26 {
+  width: 100%;
+  height: 140px;
+  background: url("../assets/tentang_kami/v53_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v53_18 {
+  width: 100%;
+  height: 140px;
+  background: rgba(189,183,107,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_27 {
+  width: 100%;
+  height: 139px;
+  background: url("../assets/tentang_kami/v59_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 30px;
+  overflow: hidden;
+}
+.v53_19 {
+  width: 139px;
+  height: 139px;
+  background: url("../assets/tentang_kami/v53_19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v59_26 {
+  width: 100%;
+  height: 39px;
+  background: url("../assets/tentang_kami/v59_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 166px;
+  overflow: hidden;
+}
+.v59_25 {
+  width: 613px;
+  height: 24px;
+  background: url("../assets/tentang_kami/v59_25.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 568px;
+  overflow: hidden;
+}
+.v53_20 {
+  width: 79px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_21 {
+  width: 130px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 127px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_22 {
+  width: 79px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 305px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_23 {
+  width: 67px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 432px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_24 {
+  width: 66px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 547px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v53_25 {
+  width: 307px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
